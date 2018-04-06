@@ -1,0 +1,2 @@
+viewrepo_c1 https://github.com/Shane-Cage/viewrepo_c1.git GIT master HEAD
+viewrepo_c2 https://github.com/Shane-Cage/viewrepo_c2.git GIT master HEAD
